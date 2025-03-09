@@ -66,6 +66,18 @@ email_slicer_project/
 │── manage.py
 │── requirements.txt
 ```
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Results
+![Results](screenshots/resultspage.png)
+
+## Demo
+
+Watch the full demonstration on YouTube:  
+[![Watch the video](https://img.youtube.com/vi/DmxOoouTXPM/0.jpg)](https://youtu.be/DmxOoouTXPM?si=GCSXhRxTQjS2ptVH)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests. Any improvements or feature suggestions are welcome!
