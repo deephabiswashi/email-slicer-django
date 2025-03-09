@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+env1/
+
+# Django migrations
+slicer/migrations/
+
+# SQLite database
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# IDE / Editor files
+.vscode/
+*.swp
+*.swo
+
+# Logs and debug files
+*.log
